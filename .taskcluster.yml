@@ -49,3 +49,4 @@ tasks:
       description: "Tests for taskcluster github in production/staging (from a release)"
       owner: "{{ event.head.user.email }}"
       source: "{{ event.head.repo.url }}"
+
