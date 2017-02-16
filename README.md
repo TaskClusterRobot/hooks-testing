@@ -1,4 +1,6 @@
 # Github Webhooks Testing
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/TaskClusterRobot/hooks-testing.svg)](https://greenkeeper.io/)
 This repository just exists to test taskcluster-github.
 
 test reset
